@@ -35,5 +35,10 @@ You can root the box from michiko-arasaka user by putting a shell at the bottom 
 # Creds
 root:UnguessableP@ssw0rd
 
+/root/root.txt : 4e067a8231035d94ca54f1e41c12df6e
+ 
+
 michiko-arasaka:4d4m5M@SH3R
+
+/home/michiko-arasaka/user.txt : 169ab538813557728c78b637db91d1b0
 
