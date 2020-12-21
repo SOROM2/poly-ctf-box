@@ -1,4 +1,4 @@
-# WARNING THIS IS A CTF BOX, GO TO RELEASES FOR THE OVF
+# WARNING THIS IS A CTF BOX, GO TO [RELEASES](https://github.com/SOROM2/poly-ctf-box/releases/latest) FOR THE OVF
 Then come back here if you get stuck or complete the box.
 
 
