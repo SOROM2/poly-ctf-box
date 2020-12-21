@@ -2,6 +2,10 @@
 Then come back here if you get stuck or complete the box.
 
 
+## SPOILERS BELOW
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
 ## User
 
 
